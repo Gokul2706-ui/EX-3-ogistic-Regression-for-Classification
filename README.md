@@ -1,4 +1,4 @@
-# EX-3-ogistic-Regression-for-Classification
+# EX-3-logistic-Regression-for-Classification
 predictive analytics
 # Experiment 3: Logistic Regression for Classification
 
